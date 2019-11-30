@@ -1,0 +1,48 @@
+body{
+    background-color: #222;
+}
+
+#audio_file{
+    background-color:#222;
+    width:200px;
+    color:white;
+    border:solid 1px #fff;
+    margin-bottom:10px;
+
+}
+
+div#waveform
+{   
+    border:solid 1px #fff;
+    background-color:#222;
+}
+
+#discription
+{
+    padding:10px;
+    border:solid 1px #fff;
+    width:278px;
+    margin-bottom:-29px;
+    color:white;
+}
+
+#slider
+{
+    border:solid 1px #fff;
+    width:200px;
+    margin-left:80px;
+}
+.menubutton
+{
+    margin-top:20px;
+    background-color:#222;
+    float:left;
+    width:300px;
+    padding:10px;
+    height:50px;
+    font-size:12px;
+    color:white;
+}
+.menubutton:hover{
+    background-color:#888888;
+}
